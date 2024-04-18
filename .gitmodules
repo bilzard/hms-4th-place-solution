@@ -1,0 +1,9 @@
+[submodule "kaggle-hms-public"]
+	path = kaggle-hms-public
+	url = git@github.com:bilzard/kaggle-hms-public.git
+[submodule "kaggle-hms-4th"]
+	path = kaggle-hms-4th
+	url = git@github.com:yu4u/kaggle-hms-4th.git
+[submodule "hms-harmful-brain-activity-classification-public"]
+	path = hms-harmful-brain-activity-classification-public
+	url = git@github.com:tattaka/hms-harmful-brain-activity-classification-public.git
